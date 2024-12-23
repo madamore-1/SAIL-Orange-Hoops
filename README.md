@@ -7,4 +7,4 @@ Contrbutors to this project were:
 * Saketh Kilaru [GitHub Link](https://github.com/sakethkilaru)
 * Luis Riviere
 * Akshaj Salvi
-* Michael D'Amore
+* Michael A. d'Amore [GitHub Link](https://github.com/madamore-1)
